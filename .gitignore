@@ -24,7 +24,7 @@ out/
 __debug_bin
 
 main
-dist/
+./dist/
 tmp/
 
 # plugins
