@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/blugelabs/bluge"
+	"github.com/strivewrt/bluge"
 
 	"github.com/zincsearch/zincsearch/pkg/errors"
 	"github.com/zincsearch/zincsearch/pkg/meta"

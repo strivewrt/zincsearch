@@ -19,9 +19,9 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/analysis/token"
-	"github.com/blugelabs/bluge/analysis/tokenizer"
+	"github.com/strivewrt/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis/token"
+	"github.com/strivewrt/bluge/analysis/tokenizer"
 
 	zinctoken "github.com/zincsearch/zincsearch/pkg/bluge/analysis/token"
 	"github.com/zincsearch/zincsearch/pkg/errors"

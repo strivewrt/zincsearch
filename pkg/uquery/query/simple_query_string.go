@@ -16,8 +16,8 @@
 package query
 
 import (
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/strivewrt/bluge"
+	"github.com/strivewrt/bluge/analysis"
 
 	"github.com/zincsearch/zincsearch/pkg/meta"
 )

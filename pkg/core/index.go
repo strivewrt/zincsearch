@@ -19,8 +19,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/strivewrt/bluge"
+	"github.com/strivewrt/bluge/analysis"
 	"golang.org/x/sync/errgroup"
 
 	"github.com/zincsearch/zincsearch/pkg/meta"

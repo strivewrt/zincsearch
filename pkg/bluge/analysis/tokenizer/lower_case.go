@@ -16,9 +16,9 @@
 package tokenizer
 
 import (
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/analysis/token"
-	"github.com/blugelabs/bluge/analysis/tokenizer"
+	"github.com/strivewrt/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis/token"
+	"github.com/strivewrt/bluge/analysis/tokenizer"
 )
 
 type LowerCaseTokenizer struct{}

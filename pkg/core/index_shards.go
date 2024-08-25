@@ -22,9 +22,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/analysis"
 	"github.com/rs/zerolog/log"
+	"github.com/strivewrt/bluge"
+	"github.com/strivewrt/bluge/analysis"
 	"golang.org/x/sync/errgroup"
 
 	"github.com/zincsearch/zincsearch/pkg/config"

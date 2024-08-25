@@ -23,11 +23,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/blugelabs/ice/compress"
 	"github.com/docker/go-units"
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 	"github.com/rs/zerolog/log"
+	"github.com/strivewrt/ice/v2/compress"
 )
 
 type config struct {

@@ -20,8 +20,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blugelabs/bluge/analysis"
 	"github.com/stretchr/testify/assert"
+	"github.com/strivewrt/bluge/analysis"
 
 	"github.com/zincsearch/zincsearch/pkg/config"
 )

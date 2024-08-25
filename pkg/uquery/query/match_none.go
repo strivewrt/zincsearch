@@ -15,7 +15,7 @@
 
 package query
 
-import "github.com/blugelabs/bluge"
+import "github.com/strivewrt/bluge"
 
 func MatchNoneQuery() (bluge.Query, error) {
 	return bluge.NewMatchNoneQuery(), nil

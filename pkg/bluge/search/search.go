@@ -20,10 +20,10 @@ import (
 	"context"
 	"sync/atomic"
 
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/search"
-	"github.com/blugelabs/bluge/search/aggregations"
+	"github.com/strivewrt/bluge"
+	"github.com/strivewrt/bluge/analysis"
+	"github.com/strivewrt/bluge/search"
+	"github.com/strivewrt/bluge/search/aggregations"
 	"golang.org/x/sync/errgroup"
 
 	"github.com/zincsearch/zincsearch/pkg/config"

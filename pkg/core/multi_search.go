@@ -21,9 +21,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/analysis"
 	"github.com/rs/zerolog/log"
+	"github.com/strivewrt/bluge"
+	"github.com/strivewrt/bluge/analysis"
 
 	zincsearch "github.com/zincsearch/zincsearch/pkg/bluge/search"
 	"github.com/zincsearch/zincsearch/pkg/meta"

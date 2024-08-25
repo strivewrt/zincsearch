@@ -20,9 +20,9 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/blugelabs/bluge"
-	blugeindex "github.com/blugelabs/bluge/index"
 	"github.com/rs/zerolog/log"
+	"github.com/strivewrt/bluge"
+	blugeindex "github.com/strivewrt/bluge/index"
 
 	"github.com/zincsearch/zincsearch/pkg/config"
 	"github.com/zincsearch/zincsearch/pkg/errors"

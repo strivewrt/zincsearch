@@ -16,7 +16,7 @@
 package query
 
 import (
-	"github.com/blugelabs/bluge"
+	"github.com/strivewrt/bluge"
 
 	"github.com/zincsearch/zincsearch/pkg/errors"
 )

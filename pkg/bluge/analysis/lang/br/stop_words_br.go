@@ -16,7 +16,7 @@
 package br
 
 import (
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis"
 )
 
 // this content was obtained from:

@@ -19,7 +19,7 @@ import (
 	"bytes"
 	"unicode/utf8"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis"
 )
 
 type EdgeNgramTokenizer struct {

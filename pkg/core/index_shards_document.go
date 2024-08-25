@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/blugelabs/bluge"
+	"github.com/strivewrt/bluge"
 
 	"github.com/zincsearch/zincsearch/pkg/config"
 	"github.com/zincsearch/zincsearch/pkg/meta"

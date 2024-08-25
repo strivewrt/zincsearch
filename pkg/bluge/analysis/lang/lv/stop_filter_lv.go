@@ -15,7 +15,7 @@
 package lv
 
 import (
-	"github.com/blugelabs/bluge/analysis/token"
+	"github.com/strivewrt/bluge/analysis/token"
 )
 
 func StopWordsFilter() *token.StopTokensFilter {

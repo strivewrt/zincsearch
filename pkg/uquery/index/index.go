@@ -18,7 +18,7 @@ package index
 import (
 	"fmt"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis"
 
 	"github.com/zincsearch/zincsearch/pkg/errors"
 	"github.com/zincsearch/zincsearch/pkg/meta"

@@ -1,7 +1,8 @@
 package char
 
 import (
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis"
+
 	zincchar "github.com/zincsearch/zincsearch/pkg/bluge/analysis/char"
 	"github.com/zincsearch/zincsearch/pkg/zutils"
 )

@@ -16,8 +16,8 @@
 package tokenizer
 
 import (
-	"github.com/blugelabs/bluge/analysis"
 	"github.com/go-ego/gse"
+	"github.com/strivewrt/bluge/analysis"
 
 	"github.com/zincsearch/zincsearch/pkg/config"
 )

@@ -20,9 +20,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/blugelabs/bluge/search"
-	"github.com/blugelabs/bluge/search/aggregations"
 	"github.com/rs/zerolog/log"
+	"github.com/strivewrt/bluge/search"
+	"github.com/strivewrt/bluge/search/aggregations"
 
 	"github.com/zincsearch/zincsearch/pkg/config"
 	"github.com/zincsearch/zincsearch/pkg/zutils"

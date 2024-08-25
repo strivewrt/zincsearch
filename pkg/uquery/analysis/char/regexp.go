@@ -19,8 +19,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/analysis/char"
+	"github.com/strivewrt/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis/char"
 
 	"github.com/zincsearch/zincsearch/pkg/errors"
 	"github.com/zincsearch/zincsearch/pkg/zutils"

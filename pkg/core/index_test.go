@@ -20,10 +20,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/analysis/analyzer"
 	"github.com/stretchr/testify/assert"
+	"github.com/strivewrt/bluge"
+	"github.com/strivewrt/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis/analyzer"
 
 	"github.com/zincsearch/zincsearch/pkg/meta"
 	"github.com/zincsearch/zincsearch/pkg/zutils/json"

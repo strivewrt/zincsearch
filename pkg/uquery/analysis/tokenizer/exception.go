@@ -20,8 +20,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/analysis/tokenizer"
+	"github.com/strivewrt/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis/tokenizer"
 
 	"github.com/zincsearch/zincsearch/pkg/errors"
 	"github.com/zincsearch/zincsearch/pkg/zutils"

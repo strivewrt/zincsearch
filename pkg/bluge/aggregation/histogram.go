@@ -20,8 +20,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/blugelabs/bluge/search"
-	"github.com/blugelabs/bluge/search/aggregations"
+	"github.com/strivewrt/bluge/search"
+	"github.com/strivewrt/bluge/search/aggregations"
 )
 
 type HistogramAggregation struct {

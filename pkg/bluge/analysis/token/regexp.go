@@ -18,7 +18,7 @@ package token
 import (
 	"regexp"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis"
 )
 
 type RegexpTokenFilter struct {

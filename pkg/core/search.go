@@ -19,10 +19,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/search"
-	"github.com/blugelabs/bluge/search/highlight"
 	"github.com/rs/zerolog/log"
+	"github.com/strivewrt/bluge"
+	"github.com/strivewrt/bluge/search"
+	"github.com/strivewrt/bluge/search/highlight"
 
 	zincsearch "github.com/zincsearch/zincsearch/pkg/bluge/search"
 	"github.com/zincsearch/zincsearch/pkg/meta"

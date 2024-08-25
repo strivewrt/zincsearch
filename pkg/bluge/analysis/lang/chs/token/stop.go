@@ -16,8 +16,8 @@
 package token
 
 import (
-	"github.com/blugelabs/bluge/analysis"
 	"github.com/go-ego/gse"
+	"github.com/strivewrt/bluge/analysis"
 )
 
 type StopTokenFilter struct {

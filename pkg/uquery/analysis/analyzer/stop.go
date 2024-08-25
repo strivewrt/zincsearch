@@ -16,8 +16,8 @@
 package analyzer
 
 import (
-	"github.com/blugelabs/bluge/analysis"
-	"github.com/blugelabs/bluge/analysis/analyzer"
+	"github.com/strivewrt/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis/analyzer"
 
 	"github.com/zincsearch/zincsearch/pkg/bluge/analysis/token"
 	"github.com/zincsearch/zincsearch/pkg/zutils"

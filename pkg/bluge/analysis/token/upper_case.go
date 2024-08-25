@@ -18,7 +18,7 @@ package token
 import (
 	"bytes"
 
-	"github.com/blugelabs/bluge/analysis"
+	"github.com/strivewrt/bluge/analysis"
 )
 
 type UpperCaseTokenFilter struct{}

@@ -18,8 +18,8 @@ package directory
 import (
 	"path"
 
-	"github.com/blugelabs/bluge"
-	"github.com/blugelabs/bluge/index"
+	"github.com/strivewrt/bluge"
+	"github.com/strivewrt/bluge/index"
 )
 
 // GetDiskConfig returns a bluge config that will store index data in local disk

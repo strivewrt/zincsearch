@@ -16,8 +16,8 @@
 package analyzer
 
 import (
-	"github.com/blugelabs/bluge/analysis"
 	"github.com/go-ego/gse"
+	"github.com/strivewrt/bluge/analysis"
 
 	"github.com/zincsearch/zincsearch/pkg/bluge/analysis/lang/chs/token"
 	"github.com/zincsearch/zincsearch/pkg/bluge/analysis/lang/chs/tokenizer"
