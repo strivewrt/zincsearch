@@ -1,4 +1,4 @@
-module github.com/zincsearch/zincsearch
+module github.com/strivewrt/zincsearch
 
 go 1.22
 
